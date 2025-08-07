@@ -30,9 +30,3 @@ The implementation is based on Python 3.7 or later. The following libraries are 
 - TensorFlow (for LSTM)
 - Matplotlib
 - Seaborn (optional, for visualization)
-
-### Usage
-
-Make sure to have the necessary data available in the specified format or adapt the code to your specific dataset.
-
-For any questions or issues, please contact [praneethyalaka1346@gmail.com].
